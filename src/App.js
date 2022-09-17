@@ -10,7 +10,7 @@ export default function App() {
       <>
     <header>
       <Link to= '/Home'>Home</Link>
-      <Link to= '/Usuarios'>Usuario</Link>
+      <Link to= '/Usuario'>Usuario</Link>
       <Link to= '/Cadastro'>Cadastro</Link>
       <Link to= '/Enviar'>Enviar</Link>
     </header>
